@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Džemal and I'm a full-stack developer from United Kingdom.</p>
+<h3 align="center">My name is Džemal and I'm a full-stack developer from United Kingdom.</h3>
 
 ###
 
@@ -11,6 +11,14 @@
 ###
 
 <p align="left">✨ Creating bugs since I wrote my first “hello world” and immediately broke something.<br>📚 I'm currently learning full-stack scaling, fintech infrastructure, and how not to take down my own server at 3 AM.<br>🎯 Goals: Build NoCash into a real payment ecosystem, ship more polished projects, and automate everything that annoys me.<br>🎲 Fun fact: I run a UK company from around the world, fix bugs faster than my coffee machine heats up, and my iPhone is technically a business expense.</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31go32lq73c6wj2ckxabymfxo23m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31go32lq73c6wj2ckxabymfxo23m&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -48,15 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FastDzemal8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FastDzemal8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=My%20Stats" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FastDzemal8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=FastDzemal8&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
